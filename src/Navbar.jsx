@@ -20,7 +20,7 @@ const Navbar = () => {
                             <div className="container-fluid">
                                 <Link className="navbar-brand" /* href="#" */ to="/">
                                     <img
-                                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTij7l41-VoLYHwXdRty1G8d3cDdN0Utn5yKw&usqp=CAU"
+                                        src="https://www.logopik.com/wp-content/uploads/edd/2018/06/Alphabet-Logo-Design.png"
                                         className="mr-3"
                                     />
                                     Alphabet
