@@ -20,7 +20,7 @@ const Navbar = () => {
                             <div className="container-fluid">
                                 <Link className="navbar-brand" /* href="#" */ to="/">
                                     <img
-                                        src="https://static.wixstatic.com/media/49c2f1_97972c33b1064d0b82769fe6ab0cd974~mv2.png/v1/fill/w_260,h_246,al_c,q_85,usm_0.66_1.00_0.01/Dynasty%20Offical%20Logo.webp"
+                                        src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Dynasty_2017_logo.jpg"
                                         className="mr-3"
                                     />
                                     DYNASTY website
