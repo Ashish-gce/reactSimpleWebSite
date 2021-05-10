@@ -20,10 +20,10 @@ const Navbar = () => {
                             <div className="container-fluid">
                                 <Link className="navbar-brand" /* href="#" */ to="/">
                                     <img
-                                        src="https://lh3.googleusercontent.com/-3n9Wzdb4u3c/AAAAAAAAAAI/AAAAAAAAAAA/EtF-n0eDFW0/s44-p-k-no-ns-nd/photo.jpg"
+                                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTij7l41-VoLYHwXdRty1G8d3cDdN0Utn5yKw&usqp=CAU"
                                         className="mr-3"
                                     />
-                                    Readers Rejoice Library
+                                    Alphabet
                                 </Link>
                                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                     <span className="navbar-toggler-icon"></span>
