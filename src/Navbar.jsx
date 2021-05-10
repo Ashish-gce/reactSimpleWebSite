@@ -20,10 +20,10 @@ const Navbar = () => {
                             <div className="container-fluid">
                                 <Link className="navbar-brand" /* href="#" */ to="/">
                                     <img
-                                        src="https://www.logopik.com/wp-content/uploads/edd/2018/06/Alphabet-Logo-Design.png"
+                                        src="https://static.wixstatic.com/media/49c2f1_97972c33b1064d0b82769fe6ab0cd974~mv2.png/v1/fill/w_260,h_246,al_c,q_85,usm_0.66_1.00_0.01/Dynasty%20Offical%20Logo.webp"
                                         className="mr-3"
                                     />
-                                    Alphabet
+                                    DYNASTY website
                                 </Link>
                                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                     <span className="navbar-toggler-icon"></span>
