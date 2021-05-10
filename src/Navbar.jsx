@@ -18,12 +18,20 @@ const Navbar = () => {
                     <div className="col-10 mx-auto">
                         <nav className="navbar navbar-expand-lg navbar-light bg-light">
                             <div className="container-fluid">
-                                <Link className="navbar-brand" /* href="#" */ to="/">
+                                {/* <Link className="navbar-brand" to="/">
+                                    <img
+                                        src="https://lh3.googleusercontent.com/-3n9Wzdb4u3c/AAAAAAAAAAI/AAAAAAAAAAA/EtF-n0eDFW0/s44-p-k-no-ns-nd/photo.jpg"
+                                        className="mr-3"
+                                    />
+                                    Readers Rejoice Library
+                                </Link> */}
+
+                                <Link className="navbar-brand" to="/">
                                     <img
                                         src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Dynasty_2017_logo.jpg"
                                         className="mr-3"
                                     />
-                                    DYNASTY website
+                                    DYNASTYwebsite
                                 </Link>
                                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                     <span className="navbar-toggler-icon"></span>
