@@ -27,11 +27,11 @@ const Navbar = () => {
                                 </Link> */}
 
                                 <Link className="navbar-brand" to="/">
-                                    <img
-                                        src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Dynasty_2017_logo.jpg"
+                                    <img style={{ height: '7.5vh' }}
+                                        src="https://www.techonline.com/wp-content/uploads/2020/10/tol-logo-1.png?w=300"
                                         className="mr-3"
                                     />
-                                    DYNASTYwebsite
+                                    TechOnline
                                 </Link>
                                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                     <span className="navbar-toggler-icon"></span>
